@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @B1adeisCoding
-- 👀 I’m interested in CODING AND LADIES
-- 🌱 I’m currently learning COMPUTER SCIENCE
-- 📫 How to reach me 2160392360@qq.com
-- <h1>我是屌丝</h1>
+ <h1>我有一个字节/腾子/美团/京东/PDD梦</h1>
 
 <!---
 B1adeisCoding/B1adeisCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
